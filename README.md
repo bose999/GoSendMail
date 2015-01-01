@@ -23,4 +23,5 @@ use sample:
 
 
 install:
+
     % go get github.com/bose999/gosendmail
